@@ -4,24 +4,24 @@ This is a blogging-related project where anyone can publish a blog, read the blo
 <========================DATABASE===========================><br>
 Import the sql file "blogs.sql" in phpmyadmin.
 
-<========================REQUIREMENTS=========================>
+<========================REQUIREMENTS=========================><br>
 WAMP SERVER
 IDE (Visual Studio 2019)
 Browser (Chrome)
 
-<=======================LANGUAGES USED=======================>
+<=======================LANGUAGES USED=======================><br>
 PHP
 HTML
 CSS
 JAVASCRIPT
 MYSQL
 
-<========================PROJECT SERVIVES===================>
+<========================PROJECT SERVIVES===================><br>
 CREATE BLOG WITH CATEGORY
 DELETE BLOG
 FOLLOW AND UNFOLLOW THE AUTHOR
 COMMENTS
 FEEDBACK
 
-<==============TO WORK WITH COLLABORATIONS or ANY QUERY==============>
+<==============TO WORK WITH COLLABORATIONS or ANY QUERY==============><br>
 CONTACT ME: imyselfhimanshusharma@gmail.com
